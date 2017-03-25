@@ -3,7 +3,7 @@ layout: code
 title:  "Percolation 2D Lattice"
 date:   2017-03-25 12:00:00 +0100
 categories: cpp ising lattice
-excerpt: "Percolazione"
+excerpt: "Esempio di transizione di fase non termica: gas reticolare 2D di dimensioni finite."
 ---
 {% highlight cpp %}
 #pragma GCC optimize "O3,omit-frame-pointer,inline"

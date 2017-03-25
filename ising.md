@@ -2,7 +2,7 @@
 layout: math_page
 title: 2D Lattice Field Theory - Ising
 permalink: /ising/
-
+menu: false
 ---
 
 # 2D Lattice Field Theory - Ising

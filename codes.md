@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Codici
+title: Esercizi
 permalink: /codes/
+menu: true
 ---
 
 <ul class="post-list">
@@ -12,6 +13,7 @@ permalink: /codes/
 			<h2>
 				<a class="post-link" href="{{ code.url | relative_url }}">{{ code.title | escape }}</a>
 			</h2>
+			{{ code.excerpt | escape }}
 		</li>
 	{% endfor %}
 </ul>
