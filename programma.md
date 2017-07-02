@@ -21,6 +21,8 @@ Dinamica Metropolis
 
 Algoritmi a cluster: Swendsen-Wang e Wolff
 
+Binder cumulant ratio
+
 Metodo ensamble multicanonico per stima densità degli stati
 
 Worldline MC: oscillatore armonico, modello XXZ, catene fermioni e bosoni
